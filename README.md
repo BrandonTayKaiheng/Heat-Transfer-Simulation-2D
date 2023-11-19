@@ -1,6 +1,7 @@
 # Heat-Transfer-Simulation-2D
 Solving the Heat Equation in 2D numerically using the Finite Difference Method. Run the python script to view the output.
 
+## Description
 The Fourier Heat Equation (diffusion) is given as follows:
 
 ## ∂u / ∂t = α∇ ²u
@@ -35,3 +36,10 @@ Following which, the explicit method was used to calculate the temperature of ea
 Example of output:
 
 ![heat_equation_2](https://github.com/BrandonTayKaiheng/Heat-Transfer-Simulation-2D/assets/115394445/703dad2f-f62c-463b-a0dd-dfb81eb2160b)
+
+
+## Library Dependencies
+
+Numpy
+
+Matplotlib
