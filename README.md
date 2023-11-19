@@ -13,7 +13,7 @@ t = time
 
 This partial differential equation governs how heat diffuses in a medium (solid) over time.
 
-The Finite Difference algorithm is used to descretize the equation by converting the differential terms into finite difference terms
+The Finite Difference algorithm is used to discretize the equation by converting the differential terms into finite difference terms
 Each derivative is approximated by:
 
 ![image](https://github.com/BrandonTayKaiheng/Heat-Transfer-Simulation-2D/assets/115394445/f745c04e-9e65-4a55-bae7-ba36636c7274)
