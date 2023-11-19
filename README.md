@@ -5,11 +5,15 @@ The Fourier Heat Equation (diffusion) is given as follows:
 
 ### ∂u / ∂t = α∇ ²u
 
-\Where:
-\u = Temperature at a position, x
-\t = time
-\α = thermal diffusity of the material
-\∇ = The Laplace operator
+Where:
+
+u = Temperature at a position, x
+
+t = time
+
+α = thermal diffusity of the material
+
+∇ = The Laplace operator
 
 This partial differential equation governs how heat diffuses in a medium (solid) over time.
 
