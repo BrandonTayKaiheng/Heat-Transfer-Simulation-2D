@@ -1,6 +1,8 @@
 # Heat-Transfer-Simulation-2D
 Solving the Heat Equation in 2D numerically using the Finite Difference Method. Run the python script to view the output.
 
+https://github.com/BrandonTayKaiheng/Heat-Transfer-Simulation-2D/blob/main/HeatTransferSim.py
+
 ## Description
 The Fourier Heat Equation (diffusion) is given as follows:
 
