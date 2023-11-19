@@ -24,7 +24,7 @@ Each derivative is approximated by:
 
 ![image](https://github.com/BrandonTayKaiheng/Heat-Transfer-Simulation-2D/assets/115394445/f745c04e-9e65-4a55-bae7-ba36636c7274)
 
-In 2D, the discretized heat equation is given by:
+In 2D, the discretized heat equation is thus given by:
 
 ![image](https://github.com/BrandonTayKaiheng/Heat-Transfer-Simulation-2D/assets/115394445/4921c211-89d1-498a-9479-10ea51180549)
 
