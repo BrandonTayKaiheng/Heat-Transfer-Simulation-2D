@@ -15,7 +15,7 @@ u = Temperature at a position
 
 t = time
 
-α = thermal diffusity of the material
+α = thermal diffusivity of the material
 
 ∇ = The Laplace operator
 
